@@ -5,7 +5,7 @@ Pngme is an implementation of the [Pngme](https://picklenerd.github.io/pngme_boo
 ## Installation
 
 ```bash
-cargo install --git https://github.com/wheres-waldo/pngme
+cargo install --git https://github.com/sylint43/pngme
 ```
 
 ## Usage
